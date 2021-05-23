@@ -72,3 +72,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Play Game/MarbleRun/Content/Paks/MarbleRun-WindowsNoEditor.pak
